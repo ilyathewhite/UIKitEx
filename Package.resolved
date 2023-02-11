@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "CombineEx",
-        "repositoryURL": "https://github.com/RocketLaunchpad/CombineEx.git",
+        "repositoryURL": "https://github.com/ilyathewhite/CombineEx.git",
         "state": {
           "branch": "main",
           "revision": "4c0a8201655c98542c3c6069ff5ab21260ddbc71",
@@ -12,7 +12,7 @@
       },
       {
         "package": "FoundationEx",
-        "repositoryURL": "https://github.com/RocketLaunchpad/FoundationEx.git",
+        "repositoryURL": "https://github.com/ilyathewhite/FoundationEx.git",
         "state": {
           "branch": "main",
           "revision": "76570c0269d7e8622435efce85b49b5132dbeb71",
@@ -21,7 +21,7 @@
       },
       {
         "package": "Functional",
-        "repositoryURL": "https://github.com/RocketLaunchpad/Functional.git",
+        "repositoryURL": "https://github.com/ilyathewhite/Functional.git",
         "state": {
           "branch": "main",
           "revision": "be1d7f291ba6a84e48b03fe87ba2985b1640a898",
@@ -30,7 +30,7 @@
       },
       {
         "package": "ReducerArchitecture",
-        "repositoryURL": "https://github.com/RocketLaunchpad/ReducerArchitecture.git",
+        "repositoryURL": "https://github.com/ilyathewhite/ReducerArchitecture.git",
         "state": {
           "branch": "master",
           "revision": "350f760826778788290a85d9243c899c1766c96e",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "package": "Tagged",
+        "package": "swift-tagged",
         "repositoryURL": "https://github.com/pointfreeco/swift-tagged.git",
         "state": {
           "branch": null,
-          "revision": "592e1eb4255c571ebffc29955011e352217501b4",
-          "version": "0.5.0"
+          "revision": "3907a9438f5b57d317001dc99f3f11b46882272b",
+          "version": "0.10.0"
         }
       }
     ]
