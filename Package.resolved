@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/ilyathewhite/CombineEx.git",
         "state": {
           "branch": "main",
-          "revision": "4c0a8201655c98542c3c6069ff5ab21260ddbc71",
+          "revision": "2e398d24b4c49d4d72e5d1fb141f96e0f98a83e2",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/ilyathewhite/FoundationEx.git",
         "state": {
           "branch": "main",
-          "revision": "76570c0269d7e8622435efce85b49b5132dbeb71",
+          "revision": "6a8f167f16cf9cd9c5693d2174bfe9de602cb2bb",
           "version": null
         }
       },
@@ -33,7 +33,7 @@
         "repositoryURL": "https://github.com/ilyathewhite/ReducerArchitecture.git",
         "state": {
           "branch": "master",
-          "revision": "350f760826778788290a85d9243c899c1766c96e",
+          "revision": "1c7c92d6d1d12083cc0af0234356e17443c3305f",
           "version": null
         }
       },

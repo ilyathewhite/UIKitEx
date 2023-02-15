@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "UIKitEx",
     platforms: [
-        .macOS(.v10_15), .iOS(.v14), .tvOS(.v14)
+        .macOS(.v11), .iOS(.v14), .tvOS(.v14)
     ],
     products: [
         .library(
@@ -14,10 +14,10 @@ let package = Package(
             targets: ["UIKitEx"]),
     ],
     dependencies: [
-        .package(name: "FoundationEx", url: "https://github.com/ilyathewhite/FoundationEx.git", .branch("main")),
-        .package(name: "CombineEx", url: "https://github.com/ilyathewhite/CombineEx.git", .branch("main")),
-        .package(name: "ReducerArchitecture", url: "https://github.com/ilyathewhite/ReducerArchitecture.git", .branch("master")),
-        .package(name: "Functional", url: "https://github.com/ilyathewhite/Functional.git", .branch("main"))
+        .package(url: "https://github.com/ilyathewhite/FoundationEx.git", .branch("main")),
+        .package(url: "https://github.com/ilyathewhite/CombineEx.git", .branch("main")),
+        .package(url: "https://github.com/ilyathewhite/ReducerArchitecture.git", .branch("master")),
+        .package(url: "https://github.com/ilyathewhite/Functional.git", .branch("main"))
     ],
     targets: [
         .target(
