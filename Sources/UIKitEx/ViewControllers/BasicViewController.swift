@@ -13,6 +13,18 @@ import Combine
 import CombineEx
 import ReducerArchitecture
 
+public enum UIEndValue {
+    case fromUI
+    case fromCode
+
+    public var isFromUI: Bool {
+        switch self {
+        case .fromUI: return true
+        case .fromCode: return false
+        }
+    }
+}
+
 open class BasicViewController: UIViewController {
     open var viewClass = UIKitEx.env.vcViewClass
 
